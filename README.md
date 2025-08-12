@@ -1,5 +1,3 @@
-# Enhanced HR Matching &  Sentiment Analysis System
-Smart HR tool: Match CVs to job descriptions + analyze recruiter sentiment
 Talah HR Matching & Sentiment Analysis AI System
 Overview
 This project is an end-to-end AI pipeline for:

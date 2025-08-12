@@ -1,0 +1,27 @@
+{
+    "high_positive": [
+        1.0,
+        0,
+        0
+    ],
+    "low_negative": [
+        0,
+        0.9,
+        0
+    ],
+    "medium_neutral": [
+        0,
+        0,
+        0.6000000000000001
+    ],
+    "low_neutral": [
+        -0.4,
+        0,
+        0
+    ],
+    "high_negative": [
+        0,
+        0.8,
+        0
+    ]
+}

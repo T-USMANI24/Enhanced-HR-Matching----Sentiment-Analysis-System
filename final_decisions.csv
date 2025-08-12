@@ -1,0 +1,19 @@
+cv_index,similarity_score_%,skill_match_%,degree_match,match_score_%,sentiment_label,sentiment_score,rl_confidence_%,decision,explanation
+1,16.2,24.0,True,46.7,Neutral,0.0,0,Needs Review,"Sim=16.2%, Sentiment=Neutral(0.00), DegreeMatch=True, Skills=24.0%, RL Action=Needs Review, RL Confidence=0%"
+2,7.5,20.0,True,42.5,Positive,0.49,0.0,Reject,❌ Similarity score below 0.08
+3,7.3,16.0,True,41.1,Neutral,0.13,0.0,Reject,❌ Similarity score below 0.08
+4,9.4,20.0,True,43.1,Neutral,0.08,0,Strong Hire,"Sim=9.4%, Sentiment=Neutral(0.08), DegreeMatch=True, Skills=20.0%, RL Action=Strong Hire, RL Confidence=0%"
+5,10.3,12.0,True,40.8,Positive,0.46,0,Strong Hire,"Sim=10.3%, Sentiment=Positive(0.46), DegreeMatch=True, Skills=12.0%, RL Action=Strong Hire, RL Confidence=0%"
+6,9.5,20.0,True,43.2,Neutral,0.32,100.0,Strong Hire,"Sim=9.5%, Sentiment=Neutral(0.32), DegreeMatch=True, Skills=20.0%, RL Action=Strong Hire, RL Confidence=100.0%"
+7,9.7,20.0,True,43.2,Negative,-0.42,0,Strong Hire,"Sim=9.7%, Sentiment=Negative(-0.42), DegreeMatch=True, Skills=20.0%, RL Action=Strong Hire, RL Confidence=0%"
+8,6.7,12.0,True,39.6,Positive,0.79,0.0,Reject,❌ Similarity score below 0.08
+9,11.7,24.0,True,45.2,Negative,-0.48,100.0,Strong Hire,"Sim=11.7%, Sentiment=Negative(-0.48), DegreeMatch=True, Skills=24.0%, RL Action=Strong Hire, RL Confidence=100.0%"
+10,6.4,12.0,True,39.5,Positive,0.6,0.0,Reject,❌ Similarity score below 0.08
+11,10.5,0.0,True,36.8,Neutral,0.0,0.0,Reject,❌ Skills match below 10%
+12,7.1,8.0,True,38.4,Neutral,0.36,0.0,Reject,❌ Skills match below 10%
+13,9.3,20.0,True,43.1,Negative,-0.49,100.0,Strong Hire,"Sim=9.3%, Sentiment=Negative(-0.49), DegreeMatch=True, Skills=20.0%, RL Action=Strong Hire, RL Confidence=100.0%"
+14,8.5,20.0,True,42.8,Neutral,0.0,100.0,Strong Hire,"Sim=8.5%, Sentiment=Neutral(0.00), DegreeMatch=True, Skills=20.0%, RL Action=Strong Hire, RL Confidence=100.0%"
+15,6.4,12.0,True,39.5,Negative,-0.2,0.0,Reject,❌ Similarity score below 0.08
+16,8.3,8.0,True,38.8,Neutral,0.38,0.0,Reject,❌ Skills match below 10%
+17,7.7,16.0,True,41.2,Neutral,0.0,0.0,Reject,❌ Similarity score below 0.08
+18,7.1,16.0,True,41.0,Negative,-0.23,0.0,Reject,❌ Similarity score below 0.08

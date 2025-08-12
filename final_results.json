@@ -1,0 +1,28 @@
+[
+    {
+        "cv_index": 1,
+        "similarity_score_%": 45.1,
+        "skill_match_%": 11.4,
+        "degree_match": true,
+        "match_score_%": 52.2,
+        "sentiment_label": "Positive",
+        "sentiment_score": 0.49,
+        "rl_confidence_%": 0,
+        "decision": "Hire",
+        "explanation": "Sim=45.1%, Sentiment=Positive(0.49), DegreeMatch=True, Skills=11.4%, RL Action=Hire, RL Confidence=0%",
+        "cv_name": "Talha-Usmani-FlowCV-Resume-20250719 (1).pdf"
+    },
+    {
+        "cv_index": 2,
+        "similarity_score_%": 32.6,
+        "skill_match_%": 0.0,
+        "degree_match": true,
+        "match_score_%": 44.2,
+        "sentiment_label": "Negative",
+        "sentiment_score": -0.67,
+        "rl_confidence_%": 0.0,
+        "decision": "Reject",
+        "explanation": "\u274c Skills match below 5%",
+        "cv_name": "cv2.pdf.pdf"
+    }
+]

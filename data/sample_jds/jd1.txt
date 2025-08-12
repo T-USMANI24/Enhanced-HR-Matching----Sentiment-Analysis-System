@@ -1,0 +1,31 @@
+Position: Machine Learning Engineer
+Location: Bengaluru, India
+Experience: 2–4 years
+
+Responsibilities:
+
+Design, develop, and deploy machine learning models for production.
+
+Work with large datasets, perform data cleaning, preprocessing, and feature engineering.
+
+Optimize model performance using hyperparameter tuning and advanced ML techniques.
+
+Collaborate with software engineers to integrate ML models into applications.
+
+Stay updated with the latest advancements in ML algorithms and frameworks.
+
+Required Skills:
+
+Strong programming skills in Python and experience with Pandas, NumPy, Scikit-learn, and TensorFlow or PyTorch.
+
+Good understanding of data structures and algorithms.
+
+Experience with NLP, computer vision, or time-series analysis.
+
+Proficiency in SQL and database management.
+
+Familiarity with cloud platforms (AWS, Azure, or GCP) and Docker/Kubernetes.
+
+Education:
+
+B.Tech / M.Tech in Computer Science, Data Science, Artificial Intelligence, or related field.

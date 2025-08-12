@@ -1,0 +1,32 @@
+Position: AI/ML Specialist
+Location: Remote / Flexible
+Experience: 3–6 years
+
+Responsibilities:
+
+Develop AI solutions for automation, prediction, and optimization tasks.
+
+Research and implement new AI techniques for business use cases.
+
+Work with cross-functional teams to gather requirements and deploy AI systems.
+
+Create APIs and microservices for AI model integration.
+
+Evaluate and fine-tune existing models for improved accuracy.
+
+Required Skills:
+
+Strong foundation in machine learning and deep learning algorithms.
+
+Expertise in Python, PyTorch, TensorFlow, and Hugging Face Transformers.
+
+Hands-on experience with NLP, speech recognition, and chatbot development.
+
+Knowledge of MLOps tools and practices.
+
+Experience with REST APIs and Flask/Django.
+
+Education:
+
+Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, or related field.
+

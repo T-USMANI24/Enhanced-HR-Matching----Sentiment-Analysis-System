@@ -1,0 +1,20 @@
+Candidate met minimum technical expectations but did not exceed them.  
+Excellent understanding of Python, APIs, and cloud deployment strategies.  
+Solutions were functional but lacked optimization.  
+Candidate struggled to explain core concepts clearly.  
+Impressive GitHub portfolio with diverse, high-quality projects.  
+Average communication skills and project explanation ability.  
+Weak attention to detail in coding exercises.  
+Showed great enthusiasm for the role and company culture.  
+Performed adequately in coding but without innovative approaches.  
+Provided innovative solutions to technical challenges.  
+Minimal understanding of database design and queries.  
+Strong teamwork skills and collaborative mindset.  
+Failed to complete the live coding task within time limits.  
+Demonstrated moderate knowledge of Agile methodologies.  
+Avoided answering challenging problem-solving questions.  
+Showed potential for growth with additional training and mentorship.  
+Adapted quickly to changes in interview requirements.  
+Limited knowledge of required programming frameworks.  
+Lacked preparation for both technical and behavioral questions.  
+Candidate demonstrated strong problem-solving skills and communicated clearly.  

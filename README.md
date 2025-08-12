@@ -1,4 +1,4 @@
-Talah HR Matching & Sentiment Analysis AI System
+Talha HR Matching & Sentiment Analysis AI System
 Overview
 This project is an end-to-end AI pipeline for:
 
@@ -113,3 +113,4 @@ Model Upgrade → Replace TF-IDF with OpenAI Embeddings or BERT.
 Author
 
 Talha usmani – AI HR Matching & Sentiment Analysis System (2025)
+

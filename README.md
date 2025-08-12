@@ -14,29 +14,7 @@ Visualizing results, similarity scores, and RL reward progression.
 
 The system supports notebook-based execution (notebook.ipynb) and can be extended to a Streamlit app or Flask API.
 
-Folder Structure
-bash
-Copy
-Edit
-project/
-│
-├── data/
-│   ├── cvs/                  # PDF or text CV files
-│   ├── jds/                  # Job description text files
-│   └── feedbacks/            # Feedback text files
-│
-├── utils/
-│   ├── universal_parser.py 
-|   ├── preprocess.py
-|   ├── rl_agent.py
-|   ├── matcher.py 
-│   ├── embedding.py          # TF-IDF + Cosine Similarity
-│   ├── sentiment.py          # Sentiment analysis using TextBlob
-│   ├── decision.py           # RL Agent + decision rules
-│
-├── notebook.ipynb            # Main demonstration notebook
-├── requirements.txt          # Python dependencies
-├── README.md                 # Project documentation
+
 Setup Instructions
 1️⃣ Install Dependencies
 bash
@@ -133,4 +111,5 @@ Flask API → Integrate with HR systems.
 Model Upgrade → Replace TF-IDF with OpenAI Embeddings or BERT.
 
 Author
+
 Talha usmani – AI HR Matching & Sentiment Analysis System (2025)
